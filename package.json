@@ -1,0 +1,29 @@
+{
+  "name": "aws-dynamodb-tutorials",
+  "version": "1.0.0",
+  "description": "This contains nodejs components related to AWS elastic search, Dynamodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthikGangadhar/aws-dynamodb-tutorials.git"
+  },
+  "keywords": [
+    "node",
+    "elastatic-search",
+    "dynamodb",
+    "aws-client",
+    "aws"
+  ],
+  "author": "kgangadhar <karthikg1643@gmail.com> (https://github.com/karthikgangadhar)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarthikGangadhar/aws-dynamodb-tutorials/issues"
+  },
+  "homepage": "https://github.com/KarthikGangadhar/aws-dynamodb-tutorials#readme",
+  "dependencies": {
+    "aws-sdk": "^2.225.1"
+  }
+}
